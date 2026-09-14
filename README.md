@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm choy 👋
 
-<!--
-**Choy0X/Choy0X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I like building things and understanding what makes them work underneath.**
 
-Here are some ideas to get you started:
+I work across **full-stack web, AI tooling, Android, and systems**. Most projects start with curiosity, then turn into something I want to build, break down, and improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech I work with
+
+![TypeScript, JavaScript, React, Next.js, Node.js, Bun, Rust, Python, Kotlin, MongoDB, Redis and Docker](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,bun,rust,py,kotlin,mongodb,redis,docker&perline=6)
+
+### 🌱 GitHub activity
+
+[![choy's GitHub contribution calendar](https://ghchart.rshah.org/58a6ff/Choy0X)](https://github.com/Choy0X)
+
+<sub>Building higher-level software. Learning the lower-level details.</sub>
